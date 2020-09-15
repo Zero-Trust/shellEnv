@@ -1,0 +1,6 @@
+name: shell env
+
+runs:
+  using: docker
+  image: Dockerfile
+
